@@ -4,34 +4,30 @@ In this repo our job was to create a simple calendar application that allows a u
 
 
 We created a static website that you can view on this link:
- [05-Third-Party-APIs-Work-Day-Scheduler](https://killjoyangel.github.io/03-JavaScript-Password-Generator/)
+ [05-Third-Party-APIs-Work-Day-Scheduler](https://killjoyangel.github.io/05-Third-Party-APIs-Work-Day-Scheduler/)
 
-Attempted to make lots of commits and pushed to github. 
 
 ## Technologies used:
 * HTML
 * CSS
 * Java Script
+* Jquery
 
-## Original Code
-![screenshot](/assets/images/htmlthumb.jpg)
+## Original HTML  Code
+![screenshot] (assets/images/htmlthumb.jpg)
 
 ### Original CSS
-![screenshot](/assets/images/CSSthumb.jpg)
+![screenshot](assets/images/cssthumb.jpg)
 
-### Original JS
-![screenshot](/assets/images/JSthumb2.jpg)
-
-### Altered JS
-![screenshot](/assets/images/JSthumb.jpg)
+### Created JS and Jquery
+![screenshot](assets/images/JSthumb.jpg)
 
 
 ## What final product was supposed to look like
-![screenshot](/assets/images/03-javascript-homework-demo.png)
+![screenshot](assets/images/05-third-party-apis-homework-demo.gif)
 
 
-## Completion of Secure password screenshots
-![screenshot](/assets/images/passwordscreenshot.JPG)
+## Completion of Work-Day-Scheduler
+![screenshot](assets\images\itworks.JPG)
 
-![screenshot](/assets/images/passwordscreenshot1.JPG)
 
