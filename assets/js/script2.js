@@ -16,10 +16,10 @@ function displayTime() {
 displayTime()
 function updateHours() {
     $('.time-block').each(function(){
-    var hour =$(this).attr('id').split(' ')[1];
-        if (hour < timeItIsRightNow){
+    var hour =$(this).attr('id');
+        if (+hour < timeItIsRightNow){
         $(this).addClass('past');
-        } else if (hour === timeItIsRightNow) {
+        } else if (+hour === timeItIsRightNow) {
         $(this).addClass('present');    
         } else {
         $(this).addClass('future');
