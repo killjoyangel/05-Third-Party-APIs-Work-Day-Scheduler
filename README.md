@@ -28,6 +28,6 @@ We created a static website that you can view on this link:
 
 
 ## Completion of Work-Day-Scheduler
-![screenshot](assets\images\itworks.jpg)
+![screenshot](assets/images/itworks.JPG)
 
 
