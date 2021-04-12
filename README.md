@@ -28,6 +28,7 @@ We created a static website that you can view on this link:
 
 
 ## Completion of Work-Day-Scheduler
-![screenshot](assets\images\itworks.JPG)
+![screenshot](assets/images/itworks.JPG)
 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

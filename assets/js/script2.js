@@ -15,7 +15,7 @@ function displayTime() {
 //time changes on planner
 displayTime()
 function updateHours() {
-    $('.time-block').each(function(){
+    $('#uv-index').each(function(){
     var hour =$(this).attr('id');
         if (+hour < timeItIsRightNow){
         $(this).addClass('past');
